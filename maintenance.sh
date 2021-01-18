@@ -9,3 +9,5 @@ apt-get dist-upgrade -y
 apt-get autoremove -y
 apt-get autoclean -y
 updatedb
+
+exit 0
